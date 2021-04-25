@@ -1,0 +1,77 @@
+<resources>
+    <!--App Essentials-->
+    <string name="app_name">QR-сканер</string>
+    <string name="file_provider_authority" translatable="false">com.qrscanner.qrcode.barcode.reader.scanner.fileprovider</string>
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+
+    <!--Essentials-->
+    <string name="please_wait">Подождите…</string>
+
+    <!--Dummy-->
+    <string name="lorem_ipsum">Мобильное приложение Сканер QR-Кодов является продуктом по предоставлению услуг таких как чтение штрих кода, создание штрих кода и дальнейшее его использование.  Мы не передаём информацию о пользователе третьим лицам. Приложение также не собирает личные данные такие как email, Ф.ИО, номер телефона или другую информацию о пользователе. Приложение не содержит регистрацию. Однако сервис Google Play собирает данные о вашем устройстве и она доступна нашим администраторам. Эти данные используются только для выявления проблем с работоспособностью. Они включают в себя только модель, марку устройства. Приложение QR Скан может содержать рекламу. Безопасность. Приложение QR Скан не имеет собственного сервера и не может сохранять ваши данные или созданные вами штрих коды. Вся история хранится на вашем устройстве.
+По всем вопросам связанные с использованием данного приложения обращаться по email: alexaninvladimir@gmail.com
+</string>
+
+    <!--Home page-->
+    <string name="generate">Создать QR</string>
+    <string name="history">История QR</string>
+    <string name="scan">Сканировать</string>
+    <string name="toolbar_title_generate">Создать QR Код</string>
+    <string name="toolbar_title_scan">Сканирование QR</string>
+    <string name="toolbar_title_history">История</string>
+
+    <!--Settings page-->
+    <string name="settings">Настройки приложения</string>
+    <string name="play_sound">Звук</string>
+    <string name="vibrate">Вибрация</string>
+    <string name="save_history">Сохранить Историю</string>
+    <string name="copy_to_clipboard">Копировать в Буфер</string>
+    <string name="about_us">О приложении</string>
+    <string name="privacy_policy">Политика Конфиденциальности</string>
+
+    <!--Generate page-->
+    <string name="hint_enter_your_text">Введите текст</string>
+    <string name="error_provide_proper_content_and_type">Пожалуйста предоставьте правильную информацию</string>
+    <string name="error_barcode_content_limit">Длина содержимого штрих-кода должна быть от 1 до 80</string>
+    <string name="error_qrcode_content_limit">Длина содержимого QR-кода должна быть от 1 до 1000</string>
+    <string name="hello_blank_fragment">Hello blank</string>
+
+    <!--Generated QR Code page-->
+    <string name="toolbar_title_generated_qr_code">Создать QR Код</string>
+    <string name="code_type">Тип: %s</string>
+    <string name="content">Контент: %s</string>
+    <string name="saved_the_code_successfully">Код успешно сохранен</string>
+    <string name="failed_to_save_the_code">не удалось сохранить код</string>
+    <string name="failed_to_share_the_code">не удалось поделиться кодом</string>
+    <string name="file_name_body">%s_%s</string>
+    <string name="generated_qr_code_already_exists">Сгенерированный код уже существует в хранилище</string>
+    <string name="share_code_using">Поделитесь кодом используя…</string>
+
+    <!--Scan page-->
+    <string name="flash">Flash</string>
+    <string name="scan_gallery">Из Галереи</string>
+    <string name="error_occured_while_scanning">Произошла ошибка при сканировании</string>
+    <string name="error_could_not_load_the_image">Не удалось загрузить изображение</string>
+    <string name="error_did_not_find_any_content">Не найден контент. Попробуйте с другим изображением</string>
+
+    <!--Scan result page-->
+    <string name="toolbar_title_scan_result">Результат сканирования</string>
+    <string name="open_in_browser">Открыть в браузере</string>
+    <string name="created_time">Время создания: %s</string>
+    <string name="scanned_qr_code_content">Содержание отсканированного кода</string>
+    <string name="copied_to_clipboard">Копировать в буфер</string>
+
+    <!--History page-->
+    <string name="code_scan">%s Scan</string>
+    <string name="no_item">Ничего не найдено</string>
+
+    <!--Picked image from gallery page-->
+    <string name="get_value">Получить значение</string>
+    <string name="toolbar_title_uploaded_image">Закрузить картинку</string>
+    <string name="dolor_sit_amet">Сканер QR-Кодов - Сканирование и создание QR Кода и Бар Кода</string>
+    <string name="app_version_v1_1">Версия: 1.2.0</string>
+    <string name="something_wrong">Что-то пошло не так</string>
+    <string name="delete">Удалить</string>
+</resources>
